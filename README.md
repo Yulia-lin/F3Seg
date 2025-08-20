@@ -1,4 +1,5 @@
 # F3Seg
+Paper has been accepted by CCF BigData 2025.
 
 ### Prepare Datasets
 ```
